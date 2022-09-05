@@ -1,8 +1,0 @@
-[2cc4:000a][2022-08-22T15:42:37] Using cached package manifest as the embedded manifest
-[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetObjectAlloc/es/Microsoft.DiagnosticsHub.DotNetObjectAllocation.resources.dll
-[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetObjectAlloc\es\Microsoft.DiagnosticsHub.DotNetObjectAllocation.resources.dll file deleted.
-[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetObjectAlloc/EdgeWebViews/DotNetObjectAlloc.ScriptResources.es.resx
-[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetObjectAlloc\EdgeWebViews\DotNetObjectAlloc.ScriptResources.es.resx file deleted.
-[2cc4:000a][2022-08-22T15:42:37] Started: Deleting empty directories
-[2cc4:000a][2022-08-22T15:42:37] Completed: Deleting empty directories
-[2cc4:000a][2022-08-22T15:42:37] Package executed successfully. Return code: 0
