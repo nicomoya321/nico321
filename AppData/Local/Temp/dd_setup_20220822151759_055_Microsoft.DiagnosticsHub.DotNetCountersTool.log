@@ -1,0 +1,38 @@
+[2cc4:000a][2022-08-22T15:41:14] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/extension.vsixmanifest
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\extension.vsixmanifest file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/Microsoft.DiagnosticsHub.DotNetCountersTool.dll
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\Microsoft.DiagnosticsHub.DotNetCountersTool.dll file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/Microsoft.DiagnosticsHub.DotNetCountersTool.pkgdef
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\Microsoft.DiagnosticsHub.DotNetCountersTool.pkgdef file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/Microsoft.DiagnosticsHub.DotNetCountersTool.clientenabledpkg
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\Microsoft.DiagnosticsHub.DotNetCountersTool.clientenabledpkg file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/dotNetCountersView.html
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\dotNetCountersView.html file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/dotNetCounters.manifest.json
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\dotNetCounters.manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/dotNetCountersTool.ScriptResources.resx
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\dotNetCountersTool.ScriptResources.resx file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/CSS/main.css
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\CSS\main.css file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/CSS/countersView.css
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\CSS\countersView.css file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/CSS/treeGrid.css
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\CSS\treeGrid.css file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/CSS/indeterminateProgress.css
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\CSS\indeterminateProgress.css file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/Images/itemCollapsed.png
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\Images\itemCollapsed.png file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/Images/itemExpanded.png
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\Images\itemExpanded.png file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/Scripts/dotNetCountersUI.js
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\Scripts\dotNetCountersUI.js file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/Scripts/dotNetCountersSwimlane.js
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\Scripts\dotNetCountersSwimlane.js file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/DotNetCounters/EdgeWebViews/Scripts/diagnosticsHub.js
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\DotNetCounters\EdgeWebViews\Scripts\diagnosticsHub.js file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Processing file /Contents/Team Tools/DiagnosticsHub/Collector/AgentConfigs/DotNetCountersBase.json
+[2cc4:000a][2022-08-22T15:41:14] C:\Program Files\Microsoft Visual Studio\2022\Community\Team Tools\DiagnosticsHub\Collector\AgentConfigs\DotNetCountersBase.json file deleted.
+[2cc4:000a][2022-08-22T15:41:14] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:41:14] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:41:14] Package executed successfully. Return code: 0

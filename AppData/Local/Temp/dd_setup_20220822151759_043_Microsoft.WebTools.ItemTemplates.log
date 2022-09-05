@@ -1,0 +1,1168 @@
+[2cc4:000a][2022-08-22T15:39:20] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/WebForms.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\WebForms.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/Markup.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\Markup.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Scripts/Scripts.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Scripts\Scripts.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/General.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\General.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/WebForms.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\WebForms.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/Markup.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\Markup.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Scripts/Scripts.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Scripts\Scripts.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/General.vstdir
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\General.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/AddItemTemplateInfo/WebFolderItemTemplates.xml
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\AddItemTemplateInfo\WebFolderItemTemplates.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/ItemTemplates.pkgdef
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\ItemTemplates.pkgdef file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web Tools/Mvc/Snippets/HTML/1033/ASP.NET Web Stack 5/text.snippet
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web Tools\Mvc\Snippets\HTML\1033\ASP.NET Web Stack 5\text.snippet file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicDataField.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicDataField.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField.ascx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField.ascx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField.ascx.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField.ascx.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/DynamicDataWebApplicationField.cs/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\DynamicDataWebApplicationField.cs\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/WebService/WebService.asmx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\WebService\WebService.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/WebService/WebService.asmx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\WebService\WebService.asmx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/1033/WebService/WebService.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\1033\WebService\WebService.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/ContentPage/ContentPage.aspx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\ContentPage\ContentPage.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/ContentPage/ContentPage.aspx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\ContentPage\ContentPage.aspx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/ContentPage/ContentPage.aspx.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\ContentPage\ContentPage.aspx.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/ContentPage/ContentPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\ContentPage\ContentPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/MasterPage/MasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\MasterPage\MasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/MasterPage/Site.Master
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\MasterPage\Site.Master file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/MasterPage/Site.master.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\MasterPage\Site.master.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/MasterPage/Site.master.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\MasterPage\Site.master.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/SkinFile/SkinFile.skin
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\SkinFile\SkinFile.skin file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/SkinFile/SkinFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\SkinFile\SkinFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebForm/Default.aspx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebForm\Default.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebForm/Default.aspx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebForm\Default.aspx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebForm/Default.aspx.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebForm\Default.aspx.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebForm/WebForm.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebForm\WebForm.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx.designer.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx.designer.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web Forms/1033/WebUserControl/WebuserControl.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web Forms\1033\WebUserControl\WebuserControl.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSON/json.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSON\json.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSON/json.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSON\json.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSONSchema/json-schema.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSONSchema\json-schema.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSONSchema/JsonSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSONSchema\JsonSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSX/jsx.jsx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSX\jsx.jsx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/JSX/jsx.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\JSX\jsx.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/StyleSheetLESS/StyleSheet.less
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\StyleSheetLESS\StyleSheet.less file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/StyleSheetLESS/StyleSheetLESS.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\StyleSheetLESS\StyleSheetLESS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/StyleSheetSCSS/StyleSheet.scss
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\StyleSheetSCSS\StyleSheet.scss file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/StyleSheetSCSS/StyleSheetSCSS.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\StyleSheetSCSS\StyleSheetSCSS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/WebHtmlPage/HTMLPage.html
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\WebHtmlPage\HTMLPage.html file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/WebHtmlPage/WebHtmlPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\WebHtmlPage\WebHtmlPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/WebStyleSheet/StyleSheet.css
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\WebStyleSheet\StyleSheet.css file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Markup/1033/WebStyleSheet/WebStyleSheet.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Markup\1033\WebStyleSheet\WebStyleSheet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Scripts/1033/WebJScript/JScript.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Scripts\1033\WebJScript\JScript.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Scripts/1033/WebJScript/WebJScript.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Scripts\1033\WebJScript\WebJScript.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerAs/AngularControllerAs.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerAs\AngularControllerAs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerAs/controller.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerAs\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerAs/icon.png
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerAs\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerUsingScope/AngularControllerUsingScope.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerUsingScope\AngularControllerUsingScope.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerUsingScope/controller.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerUsingScope\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularControllerUsingScope/icon.png
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularControllerUsingScope\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularDirective/AngularDirective.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularDirective\AngularDirective.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularDirective/directive.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularDirective\directive.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularDirective/icon.png
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularDirective\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularFactory/AngularFactory.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularFactory\AngularFactory.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularFactory/factory.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularFactory\factory.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularFactory/icon.png
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularFactory\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularModule/AngularModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularModule\AngularModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularModule/icon.png
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularModule\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AngularModule/module.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AngularModule\module.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AspNetHandler/AspNetHandler.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AspNetHandler\AspNetHandler.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AspNetHandler/AspNetHandler.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AspNetHandler\AspNetHandler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AspNetModule/AspNetModule.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AspNetModule\AspNetModule.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/AspNetModule/AspNetModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\AspNetModule\AspNetModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/BowerJson/bower.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\BowerJson\bower.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/BowerJson/BowerJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\BowerJson\BowerJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/BrowserFile/BrowserFile.Browser
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\BrowserFile\BrowserFile.Browser file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/BrowserFile/BrowserFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\BrowserFile\BrowserFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/GlobalAsax/Global.asax
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\GlobalAsax\Global.asax file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/GlobalAsax/Global.asax.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\GlobalAsax\Global.asax.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/GlobalAsax/GlobalAsax.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\GlobalAsax\GlobalAsax.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Gruntfile/Gruntfile.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Gruntfile\Gruntfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Gruntfile/Gruntfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Gruntfile\Gruntfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Gulpfile/Gulpfile.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Gulpfile\Gulpfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Gulpfile/Gulpfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Gulpfile\Gulpfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Handler/Handler.ashx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Handler\Handler.ashx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Handler/Handler.ashx.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Handler\Handler.ashx.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/Handler/Handler.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\Handler\Handler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/NestedWebConfig/NestedWebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\NestedWebConfig\NestedWebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/NestedWebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\NestedWebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/PackageJson/package.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\PackageJson\package.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/PackageJson/PackageJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\PackageJson\PackageJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/SiteMap/SiteMap.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\SiteMap\SiteMap.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/SiteMap/Web.sitemap
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\SiteMap\Web.sitemap file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/WebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\WebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/WebConfig/WebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\WebConfig\WebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/1033/SqlDatabase/Database.mdf
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Data\1033\SqlDatabase\Database.mdf file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Data/1033/SqlDatabase/SQLDatabase.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Data\1033\SqlDatabase\SQLDatabase.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/1033/WebClass/Class.cs
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Code\1033\WebClass\Class.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Code/1033/WebClass/WebClass.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Code\1033\WebClass\WebClass.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicDataField.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicDataField.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField.ascx.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField.ascx.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField.ascx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField.ascx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/DynamicDataWebApplicationField.vb/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\DynamicDataWebApplicationField.vb\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/JScript/JScript.js
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\JScript\JScript.js file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/JScript/JScript.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\JScript\JScript.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/StyleSheet/StyleSheet.css
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\StyleSheet\StyleSheet.css file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/StyleSheet/StyleSheet.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\StyleSheet\StyleSheet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/WebService/WebService.asmx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\WebService\WebService.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/WebService/WebService.asmx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\WebService\WebService.asmx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/WebService/WebService.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\WebService\WebService.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/ContentPage/ContentPage.aspx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\ContentPage\ContentPage.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/ContentPage/ContentPage.aspx.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\ContentPage\ContentPage.aspx.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/ContentPage/ContentPage.aspx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\ContentPage\ContentPage.aspx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/ContentPage/ContentPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\ContentPage\ContentPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/MasterPage/MasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\MasterPage\MasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/MasterPage/Site.Master
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\MasterPage\Site.Master file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/MasterPage/Site.master.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\MasterPage\Site.master.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/MasterPage/Site.master.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\MasterPage\Site.master.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.master.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.master.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/NestedMasterPage/NestedMasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\NestedMasterPage\NestedMasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/SkinFile/SkinFile.skin
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\SkinFile\SkinFile.skin file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/SkinFile/SkinFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\SkinFile\SkinFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebForm/Default.aspx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebForm\Default.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebForm/Default.aspx.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebForm\Default.aspx.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebForm/Default.aspx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebForm\Default.aspx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebForm/WebForm.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebForm\WebForm.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx.designer.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx.designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebUserControl/WebUserControl.ascx.vb
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebUserControl\WebUserControl.ascx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web Forms/1033/WebUserControl/WebuserControl.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web Forms\1033\WebUserControl\WebuserControl.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSON/json.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSON\json.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSON/json.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSON\json.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSONSchema/json-schema.json
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSONSchema\json-schema.json file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSONSchema/JsonSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSONSchema\JsonSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSX/jsx.jsx
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSX\jsx.jsx file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/JSX/jsx.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\JSX\jsx.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/StyleSheetLESS/StyleSheet.less
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\StyleSheetLESS\StyleSheet.less file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/StyleSheetLESS/StyleSheetLESS.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\StyleSheetLESS\StyleSheetLESS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/StyleSheetSCSS/StyleSheet.scss
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\StyleSheetSCSS\StyleSheet.scss file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/StyleSheetSCSS/StyleSheetSCSS.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\StyleSheetSCSS\StyleSheetSCSS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/WebHtmlPage/HTMLPage.html
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\WebHtmlPage\HTMLPage.html file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/WebHtmlPage/WebHtmlPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:20] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\WebHtmlPage\WebHtmlPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:20] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/WebStyleSheet/StyleSheet.css
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\WebStyleSheet\StyleSheet.css file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Markup/1033/WebStyleSheet/WebStyleSheet.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Markup\1033\WebStyleSheet\WebStyleSheet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Scripts/1033/WebJScript/JScript.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Scripts\1033\WebJScript\JScript.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Scripts/1033/WebJScript/WebJScript.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Scripts\1033\WebJScript\WebJScript.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerAs/AngularControllerAs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerAs\AngularControllerAs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerAs/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerAs\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerAs/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerAs\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerUsingScope/AngularControllerUsingScope.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerUsingScope\AngularControllerUsingScope.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerUsingScope/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerUsingScope\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularControllerUsingScope/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularControllerUsingScope\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularDirective/AngularDirective.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularDirective\AngularDirective.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularDirective/directive.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularDirective\directive.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularDirective/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularDirective\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularFactory/AngularFactory.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularFactory\AngularFactory.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularFactory/factory.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularFactory\factory.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularFactory/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularFactory\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularModule/AngularModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularModule\AngularModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularModule/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularModule\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AngularModule/module.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AngularModule\module.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AspNetHandler/AspNetHandler.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AspNetHandler\AspNetHandler.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AspNetHandler/AspNetHandler.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AspNetHandler\AspNetHandler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AspNetModule/AspNetModule.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AspNetModule\AspNetModule.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/AspNetModule/AspNetModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\AspNetModule\AspNetModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/BowerJson/bower.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\BowerJson\bower.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/BowerJson/BowerJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\BowerJson\BowerJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/BrowserFile/BrowserFile.Browser
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\BrowserFile\BrowserFile.Browser file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/BrowserFile/BrowserFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\BrowserFile\BrowserFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/GlobalAsax/Global.asax
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\GlobalAsax\Global.asax file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/GlobalAsax/Global.asax.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\GlobalAsax\Global.asax.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/GlobalAsax/GlobalAsax.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\GlobalAsax\GlobalAsax.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Gruntfile/Gruntfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Gruntfile\Gruntfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Gruntfile/Gruntfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Gruntfile\Gruntfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Gulpfile/Gulpfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Gulpfile\Gulpfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Gulpfile/Gulpfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Gulpfile\Gulpfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Handler/Handler.ashx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Handler\Handler.ashx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Handler/Handler.ashx.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Handler\Handler.ashx.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/Handler/Handler.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\Handler\Handler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/NestedWebConfig/NestedWebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\NestedWebConfig\NestedWebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/NestedWebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\NestedWebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/PackageJson/package.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\PackageJson\package.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/PackageJson/PackageJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\PackageJson\PackageJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/SiteMap/SiteMap.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\SiteMap\SiteMap.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/SiteMap/Web.sitemap
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\SiteMap\Web.sitemap file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/WebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\WebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/General/1033/WebConfig/WebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\General\1033\WebConfig\WebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/MyWebAppExtension/MyWebExtension.customdata
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\MyWebAppExtension\MyWebExtension.customdata file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/MyWebAppExtension/MyWebExtension.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\MyWebAppExtension\MyWebExtension.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/1033/MyWebAppExtension/MyWebExtension.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\1033\MyWebAppExtension\MyWebExtension.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Data/1033/SqlDatabase/Database.mdf
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Data\1033\SqlDatabase\Database.mdf file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Data/1033/SqlDatabase/SQLDatabase.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Data\1033\SqlDatabase\SQLDatabase.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Code/1033/WebClass/Class.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Code\1033\WebClass\Class.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Code/1033/WebClass/WebClass.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Code\1033\WebClass\WebClass.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerAs/AngularControllerAs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerAs\AngularControllerAs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerAs/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerAs\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerAs/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerAs\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerUsingScope/AngularControllerUsingScope.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerUsingScope\AngularControllerUsingScope.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerUsingScope/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerUsingScope\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularControllerUsingScope/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularControllerUsingScope\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularDirective/AngularDirective.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularDirective\AngularDirective.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularDirective/directive.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularDirective\directive.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularDirective/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularDirective\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularFactory/AngularFactory.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularFactory\AngularFactory.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularFactory/factory.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularFactory\factory.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularFactory/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularFactory\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularModule/AngularModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularModule\AngularModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularModule/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularModule\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/AngularModule/module.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\AngularModule\module.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/BowerJson/bower.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\BowerJson\bower.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/BowerJson/BowerJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\BowerJson\BowerJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/BrowserFile/BrowserFile.Browser
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\BrowserFile\BrowserFile.Browser file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/BrowserFile/BrowserFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\BrowserFile\BrowserFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Class/Class.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Class\Class.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Class/Class.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Class\Class.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DataSet/DataSet.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DataSet\DataSet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DataSet/Dataset.xsd
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DataSet\Dataset.xsd file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicDataField.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicDataField.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/CodeBeside.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\CodeBeside.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/CodeBeside_Edit.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\CodeBeside_Edit.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/DynamicDataField.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\DynamicDataField.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/DynamicDataField_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\DynamicDataField_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/DynamicDataWebSiteField.cs/DynamicData/FieldTemplates/DynamicDataField_Edit_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\DynamicDataWebSiteField.cs\DynamicData\FieldTemplates\DynamicDataField_Edit_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/EmptyDatabase/Database.mdf
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\EmptyDatabase\Database.mdf file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/EmptyDatabase/EmptyDatabase.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\EmptyDatabase\EmptyDatabase.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/GlobalAsax/Global.asax
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\GlobalAsax\Global.asax file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/GlobalAsax/GlobalAsax.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\GlobalAsax\GlobalAsax.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Gruntfile/Gruntfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Gruntfile\Gruntfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Gruntfile/Gruntfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Gruntfile\Gruntfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Gulpfile/Gulpfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Gulpfile\Gulpfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Gulpfile/Gulpfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Gulpfile\Gulpfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Handler/Handler.ashx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Handler\Handler.ashx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Handler/Handler.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Handler\Handler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/HTMLPage/HTMLPage.html
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\HTMLPage\HTMLPage.html file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/HTMLPage/HTMLPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\HTMLPage\HTMLPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JScript/JScript.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JScript\JScript.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JScript/JScript.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JScript\JScript.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSON/json.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSON\json.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSON/json.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSON\json.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSONSchema/json-schema.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSONSchema\json-schema.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSONSchema/JsonSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSONSchema\JsonSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSX/jsx.jsx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSX\jsx.jsx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/JSX/jsx.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\JSX\jsx.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/CodeBeside.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\CodeBeside.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/LinkedMasterPage.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\LinkedMasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/LinkedMasterPage_cb.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\LinkedMasterPage_cb.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/MasterPage.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\MasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/MasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\MasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/MasterPage/MasterPage_cb.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\MasterPage\MasterPage_cb.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/NestedWebConfig/NestedWebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\NestedWebConfig\NestedWebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/NestedWebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\NestedWebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/PackageJson/package.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\PackageJson\package.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/PackageJson/PackageJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\PackageJson\PackageJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Resource/Resource.resx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Resource\Resource.resx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Resource/Resource.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Resource\Resource.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SiteMap/Sitemap.sitemap
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SiteMap\Sitemap.sitemap file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SiteMap/SiteMap.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SiteMap\SiteMap.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SkinFile/SkinFile.skin
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SkinFile\SkinFile.skin file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SkinFile/SkinFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SkinFile\SkinFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheet/StyleSheet.css
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheet\StyleSheet.css file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheet/StyleSheet.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheet\StyleSheet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheetLESS/StyleSheet.less
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheetLESS\StyleSheet.less file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheetLESS/StyleSheetLESS.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheetLESS\StyleSheetLESS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheetSCSS/StyleSheet.scss
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheetSCSS\StyleSheet.scss file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/StyleSheetSCSS/StyleSheetSCSS.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\StyleSheetSCSS\StyleSheetSCSS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/TextFile/textfile.txt
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\TextFile\textfile.txt file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/TextFile/TextFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\TextFile\TextFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/vwdsettings/vwd.webinfo
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\vwdsettings\vwd.webinfo file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/vwdsettings/vwdsettings.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\vwdsettings\vwdsettings.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebConfig/WebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebConfig\WebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/CodeBeside.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\CodeBeside.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/ContentPage.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\ContentPage.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/ContentPage_cb.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\ContentPage_cb.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/WebForm.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\WebForm.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/WebForm.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\WebForm.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebForm/WebForm_cb.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebForm\WebForm_cb.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebService/CodeBehind.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebService\CodeBehind.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebService/WebService.asmx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebService\WebService.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebService/WebService.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebService\WebService.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebService/WebService_cb.asmx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebService\WebService_cb.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebUserControl/CodeBeside.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebUserControl\CodeBeside.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebUserControl/WebUserControl.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebUserControl\WebUserControl.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebUserControl/WebuserControl.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebUserControl\WebuserControl.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebUserControl/WebUserControl_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebUserControl\WebUserControl_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XMLFile/XMLFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XMLFile\XMLFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XMLFile/XMLFile.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XMLFile\XMLFile.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XSLTFile/XSLTFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XSLTFile\XSLTFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XSLTFile/XSLTFile.xslt
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XSLTFile\XSLTFile.xslt file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XMLSchema/XMLSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XMLSchema\XMLSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/XMLSchema/XMLSchema.xsd
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\XMLSchema\XMLSchema.xsd file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerAs/AngularControllerAs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerAs\AngularControllerAs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerAs/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerAs\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerAs/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerAs\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerUsingScope/AngularControllerUsingScope.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerUsingScope\AngularControllerUsingScope.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerUsingScope/controller.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerUsingScope\controller.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularControllerUsingScope/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularControllerUsingScope\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularDirective/AngularDirective.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularDirective\AngularDirective.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularDirective/directive.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularDirective\directive.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularDirective/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularDirective\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularFactory/AngularFactory.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularFactory\AngularFactory.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularFactory/factory.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularFactory\factory.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularFactory/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularFactory\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularModule/AngularModule.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularModule\AngularModule.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularModule/icon.png
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularModule\icon.png file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/AngularModule/module.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\AngularModule\module.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/BowerJson/bower.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\BowerJson\bower.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/BowerJson/BowerJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\BowerJson\BowerJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/BrowserFile/BrowserFile.Browser
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\BrowserFile\BrowserFile.Browser file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/BrowserFile/BrowserFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\BrowserFile\BrowserFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Class/Class.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Class\Class.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Class/Class.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Class\Class.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DataSet/DataSet.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DataSet\DataSet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DataSet/Dataset.xsd
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DataSet\Dataset.xsd file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicDataField.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicDataField.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/CodeBeside.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\CodeBeside.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/CodeBeside_Edit.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\CodeBeside_Edit.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/DynamicDataField.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\DynamicDataField.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/DynamicDataField_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\DynamicDataField_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/DynamicDataField_Edit.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\DynamicDataField_Edit.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/DynamicDataWebSiteField.vb/DynamicData/FieldTemplates/DynamicDataField_Edit_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\DynamicDataWebSiteField.vb\DynamicData\FieldTemplates\DynamicDataField_Edit_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/EmptyDatabase/Database.mdf
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\EmptyDatabase\Database.mdf file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/EmptyDatabase/EmptyDatabase.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\EmptyDatabase\EmptyDatabase.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/GlobalAsax/Global.asax
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\GlobalAsax\Global.asax file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/GlobalAsax/GlobalAsax.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\GlobalAsax\GlobalAsax.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Gruntfile/Gruntfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Gruntfile\Gruntfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Gruntfile/Gruntfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Gruntfile\Gruntfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Gulpfile/Gulpfile.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Gulpfile\Gulpfile.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Gulpfile/Gulpfile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Gulpfile\Gulpfile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Handler/Handler.ashx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Handler\Handler.ashx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Handler/Handler.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Handler\Handler.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/HTMLPage/HTMLPage.html
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\HTMLPage\HTMLPage.html file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/HTMLPage/HTMLPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\HTMLPage\HTMLPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JScript/JScript.js
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JScript\JScript.js file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JScript/JScript.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JScript\JScript.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSON/json.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSON\json.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSON/json.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSON\json.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSONSchema/json-schema.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSONSchema\json-schema.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSONSchema/JsonSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSONSchema\JsonSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSX/jsx.jsx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSX\jsx.jsx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/JSX/jsx.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\JSX\jsx.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/CodeBeside.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\CodeBeside.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/LinkedMasterPage.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\LinkedMasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/LinkedMasterPage_cb.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\LinkedMasterPage_cb.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/MasterPage.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\MasterPage.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/MasterPage.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\MasterPage.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/MasterPage/MasterPage_cb.master
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\MasterPage\MasterPage_cb.master file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/NestedWebConfig/NestedWebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\NestedWebConfig\NestedWebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/NestedWebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\NestedWebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/PackageJson/package.json
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\PackageJson\package.json file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/PackageJson/PackageJson.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\PackageJson\PackageJson.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Resource/Resource.resx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Resource\Resource.resx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Resource/Resource.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Resource\Resource.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SiteMap/Sitemap.sitemap
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SiteMap\Sitemap.sitemap file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SiteMap/SiteMap.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SiteMap\SiteMap.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SkinFile/SkinFile.skin
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SkinFile\SkinFile.skin file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SkinFile/SkinFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SkinFile\SkinFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheet/StyleSheet.css
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheet\StyleSheet.css file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheet/StyleSheet.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheet\StyleSheet.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheetLESS/StyleSheet.less
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheetLESS\StyleSheet.less file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheetLESS/StyleSheetLESS.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheetLESS\StyleSheetLESS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheetSCSS/StyleSheet.scss
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheetSCSS\StyleSheet.scss file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/StyleSheetSCSS/StyleSheetSCSS.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\StyleSheetSCSS\StyleSheetSCSS.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/TextFile/textfile.txt
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\TextFile\textfile.txt file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/TextFile/TextFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\TextFile\TextFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/vwdsettings/vwd.webinfo
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\vwdsettings\vwd.webinfo file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/vwdsettings/vwdsettings.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\vwdsettings\vwdsettings.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebConfig/Web.Config
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebConfig\Web.Config file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebConfig/WebConfig.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebConfig\WebConfig.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/CodeBeside.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\CodeBeside.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/ContentPage.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\ContentPage.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/ContentPage_cb.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\ContentPage_cb.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/WebForm.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\WebForm.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/WebForm.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\WebForm.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebForm/WebForm_cb.aspx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebForm\WebForm_cb.aspx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebService/CodeBehind.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebService\CodeBehind.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebService/WebService.asmx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebService\WebService.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebService/WebService.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebService\WebService.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebService/WebService_cb.asmx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebService\WebService_cb.asmx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebUserControl/CodeBeside.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebUserControl\CodeBeside.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebUserControl/WebUserControl.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebUserControl\WebUserControl.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebUserControl/WebuserControl.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebUserControl\WebuserControl.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebUserControl/WebUserControl_cb.ascx
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebUserControl\WebUserControl_cb.ascx file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLFile/XMLFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLFile\XMLFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLFile/XMLFile.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLFile\XMLFile.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XSLTFile/XSLTFile.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XSLTFile\XSLTFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XSLTFile/XSLTFile.xslt
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XSLTFile\XSLTFile.xslt file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLSchema/XMLSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLSchema\XMLSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLSchema/XMLSchema.xsd
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLSchema\XMLSchema.xsd file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLToSchema/XmlToSchema.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLToSchema\XmlToSchema.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/XMLToSchema/XmlToSchema.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\XMLToSchema\XmlToSchema.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/Aspnet45.cs/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\Aspnet45.cs\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/Aspnet45.cs/WebRole.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\Aspnet45.cs\WebRole.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/Aspnet45.cs/WebRoleAspnet45.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\Aspnet45.cs\WebRoleAspnet45.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/Aspnet45.vb/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\Aspnet45.vb\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/Aspnet45.vb/WebRole.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\Aspnet45.vb\WebRole.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/Aspnet45.vb/WebRoleAspnet45.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\Aspnet45.vb\WebRoleAspnet45.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcLayoutPageItemTemplatev5.0.cshtml/MvcLayoutPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcLayoutPageItemTemplatev5.0.cshtml\MvcLayoutPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcLayoutPageItemTemplatev5.0.cshtml/Views/Shared/_LayoutPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcLayoutPageItemTemplatev5.0.cshtml\Views\Shared\_LayoutPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcPartialPageItemTemplatev5.0.cshtml/MvcPartialPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcPartialPageItemTemplatev5.0.cshtml\MvcPartialPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcPartialPageItemTemplatev5.0.cshtml/Views/Home/_PartialPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcPartialPageItemTemplatev5.0.cshtml\Views\Home\_PartialPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcViewPageItemTemplatev5.0.cshtml/MvcViewPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcViewPageItemTemplatev5.0.cshtml\MvcViewPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcViewPageItemTemplatev5.0.cshtml/Views/Home/ViewPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcViewPageItemTemplatev5.0.cshtml\Views\Home\ViewPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcViewPageWithLayoutItemTemplatev5.0.cshtml/MvcViewPageWithLayoutItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcViewPageWithLayoutItemTemplatev5.0.cshtml\MvcViewPageWithLayoutItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/MVC/1033/MvcViewPageWithLayoutItemTemplatev5.0.cshtml/Views/Home/ViewPageWithLayout.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\MVC\1033\MvcViewPageWithLayoutItemTemplatev5.0.cshtml\Views\Home\ViewPageWithLayout.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/SignalR/1033/SignalRHubItemTemplatev5.0.cs/MyHub.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\SignalR\1033\SignalRHubItemTemplatev5.0.cs\MyHub.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/SignalR/1033/SignalRHubItemTemplatev5.0.cs/SignalRHubItemTemplate.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\SignalR\1033\SignalRHubItemTemplatev5.0.cs\SignalRHubItemTemplate.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/SignalR/1033/SignalRPersistentConnectionItemTemplatev5.0.cs/MyConnection.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\SignalR\1033\SignalRPersistentConnectionItemTemplatev5.0.cs\MyConnection.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/SignalR/1033/SignalRPersistentConnectionItemTemplatev5.0.cs/SignalRPersistentConnectionItemTemplate.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\SignalR\1033\SignalRPersistentConnectionItemTemplatev5.0.cs\SignalRPersistentConnectionItemTemplate.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web API/1033/WebApiControllerItemTemplatev5.0.cs/ValuesController.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web API\1033\WebApiControllerItemTemplatev5.0.cs\ValuesController.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Web API/1033/WebApiControllerItemTemplatev5.0.cs/WebApiControllerItemTemplate.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Web API\1033\WebApiControllerItemTemplatev5.0.cs\WebApiControllerItemTemplate.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/ContentPageItemTemplateWapRazorv3.0.0.0.cshtml/ContentPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\ContentPageItemTemplateWapRazorv3.0.0.0.cshtml\ContentPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/ContentPageItemTemplateWapRazorv3.0.0.0.cshtml/RazorContentPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\ContentPageItemTemplateWapRazorv3.0.0.0.cshtml\RazorContentPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/HelperItemTemplateWapRazorv3.0.0.0.cshtml/Helper1.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\HelperItemTemplateWapRazorv3.0.0.0.cshtml\Helper1.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/HelperItemTemplateWapRazorv3.0.0.0.cshtml/RazorHelperItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\HelperItemTemplateWapRazorv3.0.0.0.cshtml\RazorHelperItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/LayoutPageItemTemplateWapRazorv3.0.0.0.cshtml/RazorLayoutPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\LayoutPageItemTemplateWapRazorv3.0.0.0.cshtml\RazorLayoutPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/LayoutPageItemTemplateWapRazorv3.0.0.0.cshtml/_Layout.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\LayoutPageItemTemplateWapRazorv3.0.0.0.cshtml\_Layout.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/WebPageItemTemplateWapRazorv3.0.0.0.cshtml/RazorWebPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\WebPageItemTemplateWapRazorv3.0.0.0.cshtml\RazorWebPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/Razor/1033/WebPageItemTemplateWapRazorv3.0.0.0.cshtml/WebPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\Razor\1033\WebPageItemTemplateWapRazorv3.0.0.0.cshtml\WebPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/OwinStartupItemTemplatev5.0.cs/OwinStartupItemTemplate.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\OwinStartupItemTemplatev5.0.cs\OwinStartupItemTemplate.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/CSharp/Web/General/1033/OwinStartupItemTemplatev5.0.cs/Startup.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CSharp\Web\General\1033\OwinStartupItemTemplatev5.0.cs\Startup.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/OwinStartupItemTemplateWebv5.0.cs/OwinStartupItemTemplateWeb.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\OwinStartupItemTemplateWebv5.0.cs\OwinStartupItemTemplateWeb.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/OwinStartupItemTemplateWebv5.0.cs/Startup.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\OwinStartupItemTemplateWebv5.0.cs\Startup.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SignalRHubItemTemplateWebv5.0.cs/MyHub.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SignalRHubItemTemplateWebv5.0.cs\MyHub.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SignalRHubItemTemplateWebv5.0.cs/SignalRHubItemTemplateWeb.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SignalRHubItemTemplateWebv5.0.cs\SignalRHubItemTemplateWeb.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SignalRPersistentConnectionItemTemplateWebv5.0.cs/MyConnection.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SignalRPersistentConnectionItemTemplateWebv5.0.cs\MyConnection.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/SignalRPersistentConnectionItemTemplateWebv5.0.cs/SignalRPersistentConnectionItemTemplateWeb.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\SignalRPersistentConnectionItemTemplateWebv5.0.cs\SignalRPersistentConnectionItemTemplateWeb.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebApiControllerItemTemplateWebv5.0.cs/ValuesController.cs
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebApiControllerItemTemplateWebv5.0.cs\ValuesController.cs file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/WebApiControllerItemTemplateWebv5.0.cs/WebApiControllerItemTemplateWeb.cs.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\WebApiControllerItemTemplateWebv5.0.cs\WebApiControllerItemTemplateWeb.cs.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcLayoutPageItemTemplatev5.0.vbhtml/MvcLayoutPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcLayoutPageItemTemplatev5.0.vbhtml\MvcLayoutPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcLayoutPageItemTemplatev5.0.vbhtml/Views/Shared/_LayoutPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcLayoutPageItemTemplatev5.0.vbhtml\Views\Shared\_LayoutPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcPartialPageItemTemplatev5.0.vbhtml/MvcPartialPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcPartialPageItemTemplatev5.0.vbhtml\MvcPartialPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcPartialPageItemTemplatev5.0.vbhtml/Views/Home/_PartialPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcPartialPageItemTemplatev5.0.vbhtml\Views\Home\_PartialPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcViewPageItemTemplatev5.0.vbhtml/MvcViewPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcViewPageItemTemplatev5.0.vbhtml\MvcViewPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcViewPageItemTemplatev5.0.vbhtml/Views/Home/ViewPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcViewPageItemTemplatev5.0.vbhtml\Views\Home\ViewPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcViewPageWithLayoutItemTemplatev5.0.vbhtml/MvcViewPageWithLayoutItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcViewPageWithLayoutItemTemplatev5.0.vbhtml\MvcViewPageWithLayoutItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/MVC/1033/MvcViewPageWithLayoutItemTemplatev5.0.vbhtml/Views/Home/ViewPageWithLayout.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\MVC\1033\MvcViewPageWithLayoutItemTemplatev5.0.vbhtml\Views\Home\ViewPageWithLayout.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/SignalR/1033/SignalRHubItemTemplatev5.0.vb/MyHub.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\SignalR\1033\SignalRHubItemTemplatev5.0.vb\MyHub.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/SignalR/1033/SignalRHubItemTemplatev5.0.vb/SignalRHubItemTemplate.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\SignalR\1033\SignalRHubItemTemplatev5.0.vb\SignalRHubItemTemplate.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/SignalR/1033/SignalRPersistentConnectionItemTemplatev5.0.vb/MyConnection.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\SignalR\1033\SignalRPersistentConnectionItemTemplatev5.0.vb\MyConnection.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/SignalR/1033/SignalRPersistentConnectionItemTemplatev5.0.vb/SignalRPersistentConnectionItemTemplate.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\SignalR\1033\SignalRPersistentConnectionItemTemplatev5.0.vb\SignalRPersistentConnectionItemTemplate.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/ContentPageItemTemplateWapRazorv3.0.0.0.vbhtml/ContentPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\ContentPageItemTemplateWapRazorv3.0.0.0.vbhtml\ContentPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/ContentPageItemTemplateWapRazorv3.0.0.0.vbhtml/RazorContentPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\ContentPageItemTemplateWapRazorv3.0.0.0.vbhtml\RazorContentPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/HelperItemTemplateWapRazorv3.0.0.0.vbhtml/Helper1.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\HelperItemTemplateWapRazorv3.0.0.0.vbhtml\Helper1.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/HelperItemTemplateWapRazorv3.0.0.0.vbhtml/RazorHelperItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\HelperItemTemplateWapRazorv3.0.0.0.vbhtml\RazorHelperItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/LayoutPageItemTemplateWapRazorv3.0.0.0.vbhtml/RazorLayoutPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\LayoutPageItemTemplateWapRazorv3.0.0.0.vbhtml\RazorLayoutPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/LayoutPageItemTemplateWapRazorv3.0.0.0.vbhtml/_Layout.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\LayoutPageItemTemplateWapRazorv3.0.0.0.vbhtml\_Layout.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/WebPageItemTemplateWapRazorv3.0.0.0.vbhtml/RazorWebPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\WebPageItemTemplateWapRazorv3.0.0.0.vbhtml\RazorWebPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Razor/1033/WebPageItemTemplateWapRazorv3.0.0.0.vbhtml/WebPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Razor\1033\WebPageItemTemplateWapRazorv3.0.0.0.vbhtml\WebPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web API/1033/WebApiControllerItemTemplatev5.0.vb/ValuesController.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web API\1033\WebApiControllerItemTemplatev5.0.vb\ValuesController.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/VisualBasic/Web/Web API/1033/WebApiControllerItemTemplatev5.0.vb/WebApiControllerItemTemplate.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\VisualBasic\Web\Web API\1033\WebApiControllerItemTemplatev5.0.vb\WebApiControllerItemTemplate.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SignalRHubItemTemplateWebv5.0.vb/MyHub.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SignalRHubItemTemplateWebv5.0.vb\MyHub.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SignalRHubItemTemplateWebv5.0.vb/SignalRHubItemTemplateWeb.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SignalRHubItemTemplateWebv5.0.vb\SignalRHubItemTemplateWeb.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SignalRPersistentConnectionItemTemplateWebv5.0.vb/MyConnection.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SignalRPersistentConnectionItemTemplateWebv5.0.vb\MyConnection.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/SignalRPersistentConnectionItemTemplateWebv5.0.vb/SignalRPersistentConnectionItemTemplateWeb.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\SignalRPersistentConnectionItemTemplateWebv5.0.vb\SignalRPersistentConnectionItemTemplateWeb.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebApiControllerItemTemplateWebv5.0.vb/ValuesController.vb
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebApiControllerItemTemplateWebv5.0.vb\ValuesController.vb file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/WebApiControllerItemTemplateWebv5.0.vb/WebApiControllerItemTemplateWeb.vb.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\WebApiControllerItemTemplateWebv5.0.vb\WebApiControllerItemTemplateWeb.vb.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3ContentPageItemTemplate.cshtml/ContentPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3ContentPageItemTemplate.cshtml\ContentPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3ContentPageItemTemplate.cshtml/cshtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3ContentPageItemTemplate.cshtml\cshtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3ContentPageItemTemplate.cshtml/Razor3ContentPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3ContentPageItemTemplate.cshtml\Razor3ContentPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3EmptyPageItemTemplate.cshtml/cshtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3EmptyPageItemTemplate.cshtml\cshtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3EmptyPageItemTemplate.cshtml/Empty.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3EmptyPageItemTemplate.cshtml\Empty.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3EmptyPageItemTemplate.cshtml/Razor3EmptyPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3EmptyPageItemTemplate.cshtml\Razor3EmptyPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3HelperItemTemplate.cshtml/cshtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3HelperItemTemplate.cshtml\cshtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3HelperItemTemplate.cshtml/Helper1.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3HelperItemTemplate.cshtml\Helper1.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3HelperItemTemplate.cshtml/Razor3HelperItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3HelperItemTemplate.cshtml\Razor3HelperItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3LayoutPageItemTemplate.cshtml/cshtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3LayoutPageItemTemplate.cshtml\cshtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3LayoutPageItemTemplate.cshtml/Razor3LayoutPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3LayoutPageItemTemplate.cshtml\Razor3LayoutPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3LayoutPageItemTemplate.cshtml/_Layout.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3LayoutPageItemTemplate.cshtml\_Layout.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3WebPageItemTemplate.cshtml/cshtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3WebPageItemTemplate.cshtml\cshtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3WebPageItemTemplate.cshtml/Razor3WebPageItemTemplate.cshtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3WebPageItemTemplate.cshtml\Razor3WebPageItemTemplate.cshtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/CSharp/1033/Razor3WebPageItemTemplate.cshtml/WebPage.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\CSharp\1033\Razor3WebPageItemTemplate.cshtml\WebPage.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3ContentPageItemTemplate.vbhtml/ContentPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3ContentPageItemTemplate.vbhtml\ContentPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3ContentPageItemTemplate.vbhtml/Razor3ContentPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3ContentPageItemTemplate.vbhtml\Razor3ContentPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3ContentPageItemTemplate.vbhtml/vbhtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3ContentPageItemTemplate.vbhtml\vbhtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3EmptyPageItemTemplate.vbhtml/Empty.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3EmptyPageItemTemplate.vbhtml\Empty.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3EmptyPageItemTemplate.vbhtml/Razor3EmptyPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3EmptyPageItemTemplate.vbhtml\Razor3EmptyPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3EmptyPageItemTemplate.vbhtml/vbhtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3EmptyPageItemTemplate.vbhtml\vbhtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3HelperItemTemplate.vbhtml/Helper1.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3HelperItemTemplate.vbhtml\Helper1.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3HelperItemTemplate.vbhtml/Razor3HelperItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3HelperItemTemplate.vbhtml\Razor3HelperItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3HelperItemTemplate.vbhtml/vbhtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3HelperItemTemplate.vbhtml\vbhtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3LayoutPageItemTemplate.vbhtml/Razor3LayoutPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3LayoutPageItemTemplate.vbhtml\Razor3LayoutPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3LayoutPageItemTemplate.vbhtml/vbhtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3LayoutPageItemTemplate.vbhtml\vbhtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3LayoutPageItemTemplate.vbhtml/_Layout.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3LayoutPageItemTemplate.vbhtml\_Layout.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3WebPageItemTemplate.vbhtml/Razor3WebPageItemTemplate.vbhtml.vstemplate
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3WebPageItemTemplate.vbhtml\Razor3WebPageItemTemplate.vbhtml.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3WebPageItemTemplate.vbhtml/vbhtmlfile.11.ico
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3WebPageItemTemplate.vbhtml\vbhtmlfile.11.ico file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/ItemTemplates/Web/VisualBasic/1033/Razor3WebPageItemTemplate.vbhtml/WebPage.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Web\VisualBasic\1033\Razor3WebPageItemTemplate.vbhtml\WebPage.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/AssemblyVersions.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\AssemblyVersions.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.0.0.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.0.0.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.1.0.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.1.0.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.1.1.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.1.1.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.1.2.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.1.2.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.0.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.0.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.2.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.2.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.3.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.3.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.4.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.4.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.6.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.6.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/PackageVersions5.2.7.xml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\PackageVersions5.2.7.xml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerEmpty/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerEmpty\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerEmpty/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerEmpty\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerWithActions/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerWithActions\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerWithActions/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerWithActions\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerWithContext/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerWithContext\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiControllerWithContext/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiControllerWithContext\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/Global.asax.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\Global.asax.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/Global.asax.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\Global.asax.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/Global.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\Global.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/Global.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\Global.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/WebApiConfig.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\WebApiConfig.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ApiDependencyCodeGenerator/WebApiConfig.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ApiDependencyCodeGenerator\WebApiConfig.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcArea/Area.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcArea\Area.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcArea/Area.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcArea\Area.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcArea/web.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcArea\web.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcArea/web.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcArea\web.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerEmpty/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerEmpty\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerEmpty/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerEmpty\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerWithActions/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerWithActions\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerWithActions/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerWithActions\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerWithContext/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerWithContext\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcControllerWithContext/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcControllerWithContext\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/BundleConfig.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\BundleConfig.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/BundleConfig.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\BundleConfig.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Error.cshtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Error.cshtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Error.vbhtml
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Error.vbhtml file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/FilterConfig.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\FilterConfig.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/FilterConfig.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\FilterConfig.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Global.asax.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Global.asax.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Global.asax.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Global.asax.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Global.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Global.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Global.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Global.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/RouteConfig.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\RouteConfig.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/RouteConfig.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\RouteConfig.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Site.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Site.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/Site.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\Site.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/web.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\web.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/web.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\web.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/_Layout.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\_Layout.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/_Layout.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\_Layout.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/_ViewStart.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\_ViewStart.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcFullDependencyCodeGenerator/_ViewStart.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcFullDependencyCodeGenerator\_ViewStart.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/Global.asax.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\Global.asax.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/Global.asax.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\Global.asax.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/Global.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\Global.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/Global.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\Global.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/RouteConfig.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\RouteConfig.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/RouteConfig.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\RouteConfig.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/web.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\web.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcMinimalDependencyCodeGenerator/web.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcMinimalDependencyCodeGenerator\web.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Create.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Create.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Create.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Create.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Delete.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Delete.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Delete.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Delete.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Details.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Details.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Details.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Details.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Edit.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Edit.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Edit.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Edit.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Empty.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Empty.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Empty.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Empty.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/Imports.include.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\Imports.include.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/List.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\List.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/List.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\List.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/ModelMetadataFunctions.cs.include.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\ModelMetadataFunctions.cs.include.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcView/ModelMetadataFunctions.vb.include.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcView\ModelMetadataFunctions.vb.include.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcViewWithoutModel/Empty.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcViewWithoutModel\Empty.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcViewWithoutModel/Empty.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcViewWithoutModel\Empty.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/MvcViewWithoutModel/Imports.include.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\MvcViewWithoutModel\Imports.include.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ODataControllerWithActions/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ODataControllerWithActions\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ODataControllerWithActions/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ODataControllerWithActions\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ODataControllerWithContext/Controller.cs.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ODataControllerWithContext\Controller.cs.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /Contents/Common7/IDE/Extensions/Microsoft/Web/Mvc/Scaffolding/Templates/ODataControllerWithContext/Controller.vb.t4
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\Web\Mvc\Scaffolding\Templates\ODataControllerWithContext\Controller.vb.t4 file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.WebTools.ItemTemplates.Item..vstman
+[2cc4:000a][2022-08-22T15:39:21] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Microsoft.WebTools.ItemTemplates.Item..vstman file deleted.
+[2cc4:000a][2022-08-22T15:39:21] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:39:21] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:39:21] Package executed successfully. Return code: 0

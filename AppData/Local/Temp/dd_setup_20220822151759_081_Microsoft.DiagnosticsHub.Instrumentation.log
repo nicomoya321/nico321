@@ -1,0 +1,118 @@
+[2cc4:000a][2022-08-22T15:42:37] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/extension.vsixmanifest
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\extension.vsixmanifest file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/Microsoft.DiagnosticsHub.Instrumentation.dll
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\Microsoft.DiagnosticsHub.Instrumentation.dll file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/Microsoft.DiagnosticsHub.Instrumentation.pkgdef
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\Microsoft.DiagnosticsHub.Instrumentation.pkgdef file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/Microsoft.DiagnosticsHub.Instrumentation.clientenabledpkg
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\Microsoft.DiagnosticsHub.Instrumentation.clientenabledpkg file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/Microsoft.DiagnosticsHub.InstrumentationAnalyzer.dll
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\Microsoft.DiagnosticsHub.InstrumentationAnalyzer.dll file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/detailsView.html
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\detailsView.html file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/detailsView.manifest.json
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\detailsView.manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/toolWindowView.html
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\toolWindowView.html file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/toolWindowView.manifest.json
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\toolWindowView.manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/blockedTimeDetailsView.html
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\blockedTimeDetailsView.html file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/blockedTimeDetailsView.manifest.json
+[2cc4:000a][2022-08-22T15:42:37] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\blockedTimeDetailsView.manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:42:37] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/Instrumentation.ScriptResources.resx
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\Instrumentation.ScriptResources.resx file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/blockedTimeDetailsView.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\blockedTimeDetailsView.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/main.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\main.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/detailsView.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\detailsView.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/toolWindowView.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\toolWindowView.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/blockedTime.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\blockedTime.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/enableSamplingButton.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\enableSamplingButton.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/callerCallee.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\callerCallee.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/callTreeRow.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\callTreeRow.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/functionRow.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\functionRow.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/module.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\module.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/overlay.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\overlay.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/progress.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\progress.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/indeterminateProgress.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\indeterminateProgress.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/searchControl.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\searchControl.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/autoComplete.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\autoComplete.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/threadDropDown.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\threadDropDown.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/categoryDropDown.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\categoryDropDown.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/flameGraph.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\flameGraph.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/treeGrid.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\treeGrid.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/chart.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\chart.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/css/toolbar.css
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\css\toolbar.css file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/addTrack.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\addTrack.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/samplingDisabled.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\samplingDisabled.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/samplingEnabled.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\samplingEnabled.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/codeDirectionArrow.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\codeDirectionArrow.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/goToToolWindow.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\goToToolWindow.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/search.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\search.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/filter.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\filter.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/showExternalCode.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\showExternalCode.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/stitchAsyncCode.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\stitchAsyncCode.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/itemCollapsed.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\itemCollapsed.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/itemExpanded.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\itemExpanded.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/hotItem.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\hotItem.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/hotPath.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\hotPath.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/hotItem.png
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\hotItem.png file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/hotPath.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\hotPath.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/hotPathDisabled.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\hotPathDisabled.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/i_chartzoom_reset.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\i_chartzoom_reset.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/i_chartzoom_reset_disabled.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\i_chartzoom_reset_disabled.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/images/FlipVertical_16x.svg
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\images\FlipVertical_16x.svg file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/scripts/InstrumentationSwimlane.js
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\scripts\InstrumentationSwimlane.js file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/scripts/detailsViewModel.js
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\scripts\detailsViewModel.js file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/scripts/toolWindowViewModel.js
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\scripts\toolWindowViewModel.js file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/scripts/blockedTimeDetailsViewModel.js
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\scripts\blockedTimeDetailsViewModel.js file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/Instrumentation/EdgeWebViews/scripts/diagnosticsHub.js
+[2cc4:000a][2022-08-22T15:42:38] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\Instrumentation\EdgeWebViews\scripts\diagnosticsHub.js file deleted.
+[2cc4:000a][2022-08-22T15:42:38] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:42:38] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:42:38] Package executed successfully. Return code: 0

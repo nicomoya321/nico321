@@ -1,0 +1,183 @@
+[2cc4:000a][2022-08-22T15:30:03] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/CloudService.ccproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\CloudService.ccproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/cloudservice.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\cloudservice.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/CloudServiceV2.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\CloudServiceV2.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/ServiceConfiguration.Cloud.cscfg
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\ServiceConfiguration.Cloud.cscfg file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/ServiceConfiguration.Local.cscfg
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\ServiceConfiguration.Local.cscfg file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Cloud/1033/CloudServiceV2/ServiceDefinition.csdef
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Cloud\1033\CloudServiceV2\ServiceDefinition.csdef file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/CloudService.ccproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\CloudService.ccproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/cloudservice.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\cloudservice.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/CloudServiceV2.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\CloudServiceV2.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/ServiceConfiguration.Cloud.cscfg
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\ServiceConfiguration.Cloud.cscfg file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/ServiceConfiguration.Local.cscfg
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\ServiceConfiguration.Local.cscfg file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Cloud/1033/CloudServiceV2/ServiceDefinition.csdef
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Cloud\1033\CloudServiceV2\ServiceDefinition.csdef file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/CloudService.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\CloudService.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/NETFramework4.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\NETFramework4.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/WebRole.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\WebRole.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/WorkerRole.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\WorkerRole.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/CloudServiceItems.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\CloudServiceItems.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/Data/Data.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\Data\Data.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/General/General.vstdir
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\General\General.vstdir file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRole_vb40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRole_vb40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRole_vb40/WebApplicationProject.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRole_vb40\WebApplicationProject.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRole_vb40/WebRole.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRole_vb40\WebRole.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRole_vb40/webrole_vb.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRole_vb40\webrole_vb.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRoleWcf_vb40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRoleWcf_vb40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRoleWcf_vb40/WcfWebRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRoleWcf_vb40\WcfWebRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRoleWcf_vb40/Web.config
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRoleWcf_vb40\Web.config file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual Basic/1033/WebRoleWcf_vb40/WebRole.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual Basic\1033\WebRoleWcf_vb40\WebRole.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRole_cs40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRole_cs40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRole_cs40/WebApplicationProject.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRole_cs40\WebApplicationProject.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRole_cs40/WebRole.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRole_cs40\WebRole.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRole_cs40/webrole_cs.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRole_cs40\webrole_cs.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRoleWcf_cs40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRoleWcf_cs40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRoleWcf_cs40/WcfWebRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRoleWcf_cs40\WcfWebRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRoleWcf_cs40/Web.config
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRoleWcf_cs40\Web.config file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Web Role/Visual C#/1033/WebRoleWcf_cs40/WebRole.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Web Role\Visual C#\1033\WebRoleWcf_cs40\WebRole.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/WorkerRole_vb40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\WorkerRole_vb40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/WorkerRole_vb40/WorkerRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\WorkerRole_vb40\WorkerRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/WorkerRole_vb40/WorkerRole.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\WorkerRole_vb40\WorkerRole.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/WorkerRole_vb40/workerrole_vb.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\WorkerRole_vb40\workerrole_vb.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/WorkerRole_cs40/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\WorkerRole_cs40\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/WorkerRole_cs40/WorkerRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\WorkerRole_cs40\WorkerRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/WorkerRole_cs40/WorkerRole.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\WorkerRole_cs40\WorkerRole.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/WorkerRole_cs40/workerrole_cs.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\WorkerRole_cs40\workerrole_cs.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/Data/1033/Diagnostics.wadcfgx
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\Data\1033\Diagnostics.wadcfgx file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/Data/1033/WadcfgFile.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\Data\1033\WadcfgFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/Data/1033/XMLFile.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\Data\1033\XMLFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/Data/1033/XMLFile.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\Data\1033\XMLFile.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/General/1033/TextFile.txt
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\General\1033\TextFile.txt file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudServiceItems/General/1033/TextFile.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudServiceItems\General\1033\TextFile.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/ServiceBus/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\ServiceBus\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/ServiceBus/SBWorker_CSharp.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\ServiceBus\SBWorker_CSharp.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual C#/1033/ServiceBus/WorkerRoleWithQueue.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual C#\1033\ServiceBus\WorkerRoleWithQueue.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/ServiceBus/roletemplatedata.xml
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\ServiceBus\roletemplatedata.xml file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/ServiceBus/SBWorker_VB.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\ServiceBus\SBWorker_VB.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ItemTemplates/CloudService/NETFramework4/Worker Role/Visual Basic/1033/ServiceBus/WorkerRoleWithQueue.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\CloudService\NETFramework4\Worker Role\Visual Basic\1033\ServiceBus\WorkerRoleWithQueue.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Windows/1033/assemblyinfo.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Windows\1033\assemblyinfo.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Windows/1033/ClassLibrary_WorkerRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Windows\1033\ClassLibrary_WorkerRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/Windows/1033/classlibrary.csproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\Windows\1033\classlibrary.csproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/assemblyinfo.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\assemblyinfo.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/classlibrary.vbproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\classlibrary.vbproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/ClassLibrary_WorkerRole.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\ClassLibrary_WorkerRole.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/MyApplication.Designer.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\MyApplication.Designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/MyApplication.myapp
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\MyApplication.myapp file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/Resources.Designer.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\Resources.Designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/Resources.resx
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\Resources.resx file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/Settings.Designer.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\Settings.Designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/Windows/1033/Settings.settings
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\Windows\1033\Settings.settings file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/App.config
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\App.config file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/AssemblyInfo.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\AssemblyInfo.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/SBWorker_CSharp.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\SBWorker_CSharp.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/WorkerRole.cs
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\WorkerRole.cs file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/WorkerRoleWithSBQueueProject.csproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\WorkerRoleWithSBQueueProject.csproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/CSharp/ServiceBus/1033/WorkerRoleWithSBQueueProject.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\CSharp\ServiceBus\1033\WorkerRoleWithSBQueueProject.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/App.config
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\App.config file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/AssemblyInfo.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\AssemblyInfo.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/Resources.Designer.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\Resources.Designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/Resources.resx
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\Resources.resx file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/SBWorker_VB.ico
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\SBWorker_VB.ico file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/WorkerRole.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\WorkerRole.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/Settings.Designer.vb
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\Settings.Designer.vb file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/Settings.settings
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\Settings.settings file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/WorkerRoleWithQueue.vbproj
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\WorkerRoleWithQueue.vbproj file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Common7/IDE/ProjectTemplates/VisualBasic/ServiceBus/1033/WorkerRoleWithSBQueueProject.vstemplate
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\VisualBasic\ServiceBus\1033\WorkerRoleWithSBQueueProject.vstemplate file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Xml/Schemas/ServiceConfigurationSchema27.xsd
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Xml\Schemas\ServiceConfigurationSchema27.xsd file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Xml/Schemas/ServiceDefinitionSchema27.xsd
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Xml\Schemas\ServiceDefinitionSchema27.xsd file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /Contents/Xml/Schemas/WadCfgxSchema.xsd
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Xml\Schemas\WadCfgxSchema.xsd file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /contents/Common7/IDE/ProjectTemplates/Microsoft.VisualStudio.Azure.Waverton.Projects.Project..vstman
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ProjectTemplates\Microsoft.VisualStudio.Azure.Waverton.Projects.Project..vstman file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Processing file /contents/Common7/IDE/ItemTemplates/Microsoft.VisualStudio.Azure.Waverton.Projects.Item..vstman
+[2cc4:000a][2022-08-22T15:30:03] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\ItemTemplates\Microsoft.VisualStudio.Azure.Waverton.Projects.Item..vstman file deleted.
+[2cc4:000a][2022-08-22T15:30:03] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:30:03] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:30:03] Uninstalling ProgId: VisualStudio.ccproj.2.9.5.[InstanceId]
+[2cc4:000a][2022-08-22T15:30:04] Uninstalling file association: .ccproj
+[2cc4:000a][2022-08-22T15:30:04] RegistrationPath: Software\Microsoft\VisualStudio_8515c6ef\Capabilities\FileAssociations
+[2cc4:000a][2022-08-22T15:30:04] Package executed successfully. Return code: 0

@@ -1,0 +1,86 @@
+[2cc4:000a][2022-08-22T15:44:25] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:44:25] Processing file /extension.vsixmanifest
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\extension.vsixmanifest file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /Microsoft.VisualStudio.ClickOnce.Publish.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\Microsoft.VisualStudio.ClickOnce.Publish.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/root.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\root.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/clickonce.category.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\clickonce.category.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/clickonce.profileconfig.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\clickonce.profileconfig.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/clickonce.target.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\clickonce.target.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/clickonce.view.config.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\clickonce.view.config.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/definitions/conditions.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\definitions\conditions.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/definitions/summaryEntries.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\definitions\summaryEntries.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/definitions/actions.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\definitions\actions.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/definitions/states.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\definitions\states.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/ENU/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\ENU\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/images/images.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\images\images.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/CHS/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\CHS\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/CHT/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\CHT\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/DEU/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\DEU\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/ESN/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\ESN\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/FRA/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\FRA\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/ITA/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\ITA\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/JPN/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\JPN\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/KOR/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\KOR\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/RUS/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\RUS\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/CSY/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\CSY\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/PTB/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\PTB\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/PLK/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\PLK\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /content/assets/strings/TRK/strings.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\content\assets\strings\TRK\strings.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /zh-Hans/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\zh-Hans\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /zh-Hant/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\zh-Hant\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /de/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\de\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /es/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\es\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /fr/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\fr\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /it/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\it\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /ja/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\ja\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /ko/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\ko\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /ru/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\ru\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /cs/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\cs\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /pt-BR/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\pt-BR\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /pl/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\pl\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /tr/Microsoft.VisualStudio.ClickOnce.Publish.resources.dll
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\tr\Microsoft.VisualStudio.ClickOnce.Publish.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /manifest.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Processing file /catalog.json
+[2cc4:000a][2022-08-22T15:44:25] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\ClickOnce\catalog.json file deleted.
+[2cc4:000a][2022-08-22T15:44:25] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:25] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:25] Package executed successfully. Return code: 0

@@ -1,0 +1,8 @@
+[2cc4:000a][2022-08-22T15:42:31] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:42:31] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/FileIO/es/Microsoft.DiagnosticsHub.FileIOTool.resources.dll
+[2cc4:000a][2022-08-22T15:42:31] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\FileIO\es\Microsoft.DiagnosticsHub.FileIOTool.resources.dll file deleted.
+[2cc4:000a][2022-08-22T15:42:31] Processing file /Contents/Common7/IDE/CommonExtensions/Platform/FileIO/EdgeWebViews/FileIOTool.ScriptResources.es.resx
+[2cc4:000a][2022-08-22T15:42:31] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Platform\FileIO\EdgeWebViews\FileIOTool.ScriptResources.es.resx file deleted.
+[2cc4:000a][2022-08-22T15:42:31] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:42:31] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:42:31] Package executed successfully. Return code: 0

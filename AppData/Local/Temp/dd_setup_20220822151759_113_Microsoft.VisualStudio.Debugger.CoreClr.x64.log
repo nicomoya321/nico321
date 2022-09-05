@@ -1,0 +1,174 @@
+[2cc4:000a][2022-08-22T15:44:11] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/clrcompression.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\clrcompression.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/clrjit.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\clrjit.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/coreclr.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\coreclr.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/dbgshim.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\dbgshim.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/hostfxr.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\hostfxr.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/hostpolicy.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\hostpolicy.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/Microsoft.Win32.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\Microsoft.Win32.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/mscordaccore.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\mscordaccore.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/mscordbi.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\mscordbi.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/mscorlib.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\mscorlib.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/netstandard.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\netstandard.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Collections.Concurrent.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Collections.Concurrent.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Collections.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Collections.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Collections.Immutable.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Collections.Immutable.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Collections.NonGeneric.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Collections.NonGeneric.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Collections.Specialized.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Collections.Specialized.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.ComponentModel.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.ComponentModel.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.ComponentModel.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.ComponentModel.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Console.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Console.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.Debug.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.Debug.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.DiagnosticSource.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.DiagnosticSource.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.Process.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.Process.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.StackTrace.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.StackTrace.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.Tools.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.Tools.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.TraceSource.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.TraceSource.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Diagnostics.Tracing.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Diagnostics.Tracing.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Formats.Asn1.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Formats.Asn1.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Globalization.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Globalization.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.Compression.Brotli.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.Compression.Brotli.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.Compression.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.Compression.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.FileSystem.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.FileSystem.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.FileSystem.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.FileSystem.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.MemoryMappedFiles.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.MemoryMappedFiles.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.IO.UnmanagedMemoryStream.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.IO.UnmanagedMemoryStream.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Linq.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Linq.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Linq.Expressions.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Linq.Expressions.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Memory.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Memory.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.Http.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.Http.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.NameResolution.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.NameResolution.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.NetworkInformation.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.NetworkInformation.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.Security.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.Security.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Net.Sockets.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Net.Sockets.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Numerics.Vectors.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Numerics.Vectors.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.ObjectModel.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.ObjectModel.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Private.CoreLib.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Private.CoreLib.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Private.Uri.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Private.Uri.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Private.Xml.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Private.Xml.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Private.Xml.Linq.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Private.Xml.Linq.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Emit.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Emit.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Emit.ILGeneration.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Emit.ILGeneration.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Emit.Lightweight.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Emit.Lightweight.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Extensions.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Extensions.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Metadata.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Metadata.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Reflection.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Reflection.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Resources.ResourceManager.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Resources.ResourceManager.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.CompilerServices.Unsafe.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.CompilerServices.Unsafe.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.Extensions.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.Extensions.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.Handles.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.Handles.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.InteropServices.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.InteropServices.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.InteropServices.RuntimeInformation.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.InteropServices.RuntimeInformation.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Runtime.Numerics.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Runtime.Numerics.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Claims.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Claims.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.Algorithms.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.Algorithms.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.Cng.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.Cng.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.Csp.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.Csp.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.Encoding.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.Encoding.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.Primitives.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.Primitives.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Cryptography.X509Certificates.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Cryptography.X509Certificates.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Security.Principal.Windows.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Security.Principal.Windows.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Text.Encoding.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Text.Encoding.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Text.Encoding.Extensions.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Text.Encoding.Extensions.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Text.RegularExpressions.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Text.RegularExpressions.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.Channels.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.Channels.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.Overlapped.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.Overlapped.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.Tasks.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.Tasks.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.Thread.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.Thread.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Threading.ThreadPool.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Threading.ThreadPool.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/System.Xml.XDocument.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\System.Xml.XDocument.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/WinRT.Runtime.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\WinRT.Runtime.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Processing file /Contents/CoreCon/Binaries/Phone Tools/Debugger/CoreClr/x64/Microsoft.Windows.SDK.NET.dll
+[2cc4:000a][2022-08-22T15:44:11] C:\Program Files\Microsoft Visual Studio\2022\Community\CoreCon\Binaries\Phone Tools\Debugger\CoreClr\x64\Microsoft.Windows.SDK.NET.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:11] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:11] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:11] Package executed successfully. Return code: 0

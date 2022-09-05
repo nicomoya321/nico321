@@ -1,0 +1,12 @@
+[2cc4:000a][2022-08-22T15:44:05] Using cached package manifest as the embedded manifest
+[2cc4:000a][2022-08-22T15:44:05] Processing file /extension.vsixmanifest
+[2cc4:000a][2022-08-22T15:44:05] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\AppInsights\Contracts\extension.vsixmanifest file deleted.
+[2cc4:000a][2022-08-22T15:44:05] Processing file /$PublicAssemblies/Microsoft.VisualStudio.ApplicationInsights.Interfaces.dll
+[2cc4:000a][2022-08-22T15:44:05] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\PublicAssemblies\Microsoft.VisualStudio.ApplicationInsights.Interfaces.dll file deleted.
+[2cc4:000a][2022-08-22T15:44:05] Processing file /manifest.json
+[2cc4:000a][2022-08-22T15:44:05] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\AppInsights\Contracts\manifest.json file deleted.
+[2cc4:000a][2022-08-22T15:44:05] Processing file /catalog.json
+[2cc4:000a][2022-08-22T15:44:05] C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\Extensions\Microsoft\AppInsights\Contracts\catalog.json file deleted.
+[2cc4:000a][2022-08-22T15:44:05] Started: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:05] Completed: Deleting empty directories
+[2cc4:000a][2022-08-22T15:44:05] Package executed successfully. Return code: 0

@@ -1,0 +1,12 @@
+1,"fusion","GAC",0
+1,"WinRT","NotApp",1
+3,"System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System\d1b08a492d712e019f310913d82efb4d\System.ni.dll",0
+3,"System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Core\782dd7dd89e97af687ff0bdfb301ea5f\System.Core.ni.dll",0
+3,"System.Configuration, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Configuration\26c7945a20d57e805a32145c8bd1f4f7\System.Configuration.ni.dll",0
+3,"System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Xml\048d6dbecc6efc1752a15992767e8482\System.Xml.ni.dll",0
+3,"System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Drawing\4dac268a38ead99f93898a086bb8c6f6\System.Drawing.ni.dll",0
+3,"System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Windows.Forms\a3a3552abaec178f75d88f04f940cde4\System.Windows.Forms.ni.dll",0
+3,"System.Numerics, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Numerics\6e326e6934d64ffca468159dc73cdccf\System.Numerics.ni.dll",0
+3,"System.Runtime.Serialization, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Runteb92aa12#\14094dc7040a0e9f5e4fd4c67cdea55f\System.Runtime.Serialization.ni.dll",0
+3,"System.Xml.Linq, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Xml.Linq\027331c08ab36c72e672bef91ff3046f\System.Xml.Linq.ni.dll",0
+3,"System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089","C:\windows\assembly\NativeImages_v4.0.30319_64\System.Data\41a7edcd213b6f5f6e0f80b8c844c07c\System.Data.ni.dll",0
